@@ -1,1 +1,3 @@
-# toukeigakunyuumonn
+# [データ分析に必須の知識・考え方 統計学入門 仮説検定から統計モデリングまで重要トピックを完全網羅](https://www.socym.co.jp/book/1319)
+
+メモ
